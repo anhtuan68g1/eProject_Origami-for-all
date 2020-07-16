@@ -15,7 +15,7 @@ Project title:Origami for all
             Doan Nguyen Tuan Anh      (anhwin01@gmail.com)                    Student1262131
 ============================
 
-github report link: https://github.com/anhtuan68g1/eProject_Origami-for-all.git
+github report link: https://github.com/anhtuan68g1/eProject_Origami-for-all/Document.git
 
 ============================
 
